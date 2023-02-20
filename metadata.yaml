@@ -1,5 +1,8 @@
 _repo: Types-of-prehistoric-Southwestern-architecture_69978
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69978-h/images/cover.jpg
 creator:
   author:
     agent_name: Fewkes, Jesse Walter
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7741
     wikipedia: https://en.wikipedia.org/wiki/Jesse_Walter_Fewkes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69978#Types-of-prehistoric-Southwestern-architecture
 gutenberg_issued: '2023-02-07'
 identifiers:
   gutenberg: '69978'
